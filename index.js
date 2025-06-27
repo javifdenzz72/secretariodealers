@@ -172,5 +172,5 @@ client.on("interactionCreate", async (interaction) => {
 });
 
 client.login(
-  "MTM4MjczMTY3NDExODI1ODc2OQ.GCq9OY.Z3_-vUv_E1lLAb3K4eK3ezWz6oA3WjCfXjjS7w",
+  "MTM4ODE3NjI2ODE0MjMxMzU3NQ.GZwO6U.xBGp9Rb1kPTMIdlSCNe6XeSsP8a_kHYdJmpbhs",
 );
