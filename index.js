@@ -33,7 +33,7 @@ const client = new Client({
 });
 
 const CHANNELS = {
-  manager1: "1382826184747913368", // Canal para Manager del dealer 1
+  manager1: "1388137011633983579", // Canal para Manager del dealer 1
   manager2: "1386844258773893191", // Canal para Manager del dealer 2
   manager3: "1386844331037691914", // Canal para Manager del dealer 3
   manager4: "1382826184747913371", // Canal para Manager del dealer 4
@@ -533,5 +533,4 @@ client.on("interactionCreate", async (interaction) => {
 });
 
 client.login(
-  "MTM4MjczMTY3NDExODI1ODc2OQ.GCq9OY.Z3_-vUv_E1lLAb3K4eK3ezWz6oA3WjCfXjjS7w",
-);
+  "MTM4ODE3NjI2ODE0MjMxMzU3NQ.GoeuUi.TRHzhuHlFWj8iPGy7MA5gJvRR5MhJWT3FQ4DAY",);
